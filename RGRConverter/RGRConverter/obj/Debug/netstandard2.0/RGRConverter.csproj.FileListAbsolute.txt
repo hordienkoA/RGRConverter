@@ -1,0 +1,12 @@
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\bin\Debug\netstandard2.0\RGRConverter.deps.json
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\bin\Debug\netstandard2.0\RGRConverter.dll
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\bin\Debug\netstandard2.0\RGRConverter.pdb
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.csprojAssemblyReference.cache
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.csproj.CoreCompileInputs.cache
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.AssemblyInfoInputs.cache
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.AssemblyInfo.cs
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.dll
+C:\Users\andre\RiderProjects\RGRConverter\RGRConverter\RGRConverter\obj\Debug\netstandard2.0\RGRConverter.pdb
